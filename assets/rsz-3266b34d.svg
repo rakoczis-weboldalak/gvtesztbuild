@@ -1,0 +1,25 @@
+<svg width="600" height="600" version="1.1" viewBox="0 0 158.75 158.75" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+						<title>rsz-logo</title>
+						<defs>
+							<style>.cls-1{fill:#cc333b;stroke: #cc333b; stroke-width: 4}</style>
+						</defs>
+						<metadata>
+							<rdf:rdf>
+								<cc:work rdf:about="">
+									<dc:format>image/svg+xml</dc:format>
+									<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+									<dc:title>rsz-logo</dc:title>
+								</cc:work>
+							</rdf:rdf>
+						</metadata>
+						<g transform="translate(0 -138.25)">
+							<g transform="matrix(.26458 0 0 .26458 19.861 138.25)" data-name="Layer 2">
+								<g fill="#cc333b" data-name="Layer 1">
+									<rect class="cls-1 llgO" transform="rotate(-45 98.529 504.86)" x="63.93" y="470.27" width="69.18" height="69.18"></rect>
+									<polygon class="cls-1 llgO" points="162.73 469.13 162.73 540.6 224.94 600 287.14 540.6 287.14 469.13"></polygon>
+									<path class="cls-1 llgO" d="m449.87 221.25a224.2 224.2 0 0 0-65.87-159.05l-97.35 97.35v-159.55h-161.37l-59.4 62.2h97.35v97.35l-97.35-97.35a224.24 224.24 0 0 0-65.88 159.05c0 5.16 0.19 10.27 0.53 15.34l162.7-6.33-156.86 44.3a225.27 225.27 0 0 0 99.35 137.44l90.86-135.86-56.58 153.46a225.56 225.56 0 0 0 169.81 0l-56.51-153.45 90.86 135.85a225.26 225.26 0 0 0 99.34-137.44l-156.86-44.3-61.7 58.74-61.71-58.78v-70.67h123.41v70.71l162.7 6.33c0.34-5.07 0.53-10.18 0.53-15.34m-224.93-122.78a36.27 36.27 0 1 1 36.26-36.27 36.27 36.27 0 0 1-36.26 36.27"></path>
+									<rect class="cls-1 llgO" x="320.62" y="469.12" width="71.47" height="71.47"></rect>
+								</g>
+							</g>
+						</g>
+					</svg>
